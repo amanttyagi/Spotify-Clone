@@ -406,6 +406,7 @@
     .btn2{display: none;}
     .box{
         height: 19rem;
+        margin:5px;
     }
     .first{
         gap: 3rem;

@@ -382,6 +382,9 @@
        /* padding-bottom: 0px; */
        
     }
+    .main-cont{
+        margin: 1rem;
+    }
     .song-box{
         flex-wrap: wrap;
     }
@@ -389,7 +392,7 @@
         width: 100%;
         gap: 1rem;
     }
-    .bar-cont1{margin: 0px;
+    .bar-cont1{margin: 7px;
         gap: 0.5rem;
     }
     .bar-cont2{

@@ -351,7 +351,7 @@
 
 @media screen and (max-width: 1300px){
     .side-bar{
-        width: 6rem;
+        width: 5rem;
     }
     .home p,.grey p{display: none;}
     .side-box1{
@@ -359,7 +359,7 @@
         padding: 29px;
     }
     .side-box2{
-        width: 6rem;
+        width: 5rem;
         margin: 0px;
         padding: 0px;
         gap: 2rem;
@@ -383,7 +383,8 @@
        
     }
     .main-cont{
-        margin: 1rem;
+        display: inline;
+        align-items: center;
     }
     .song-box{
         flex-wrap: wrap;
@@ -406,7 +407,7 @@
     .btn2{display: none;}
     .box{
         height: 19rem;
-        margin:5px;
+        margin: 5px;
     }
     .first{
         gap: 3rem;

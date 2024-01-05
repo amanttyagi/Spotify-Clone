@@ -384,19 +384,20 @@
     }
     .main-cont{
         margin: 1rem;
+        align-items: center;
     }
     .song-box{
         flex-wrap: wrap;
     }
     .bar{
         width: 100%;
-        gap: 1rem;
+        gap: 2rem;
     }
     .bar-cont1{margin: 7px;
         gap: 0.5rem;
     }
     .bar-cont2{
-        margin: 10px;
+        margin: 0px;
         justify-content: space-evenly;
     }
     .btn{
@@ -406,7 +407,7 @@
     .btn2{display: none;}
     .box{
         height: 19rem;
-        margin: 0px 20px;
+        margin: auto;
     }
     .first{
         gap: 3rem;

@@ -383,8 +383,7 @@
        
     }
     .main-cont{
-        display: inline;
-        align-items: center;
+        margin: 1rem;
     }
     .song-box{
         flex-wrap: wrap;
@@ -407,7 +406,7 @@
     .btn2{display: none;}
     .box{
         height: 19rem;
-        margin: 5px;
+        margin: 0px 20px;
     }
     .first{
         gap: 3rem;

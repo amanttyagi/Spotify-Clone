@@ -351,7 +351,7 @@
 
 @media screen and (max-width: 1300px){
     .side-bar{
-        width: 5rem;
+        width: 6rem;
     }
     .home p,.grey p{display: none;}
     .side-box1{
@@ -359,7 +359,7 @@
         padding: 29px;
     }
     .side-box2{
-        width: 5rem;
+        width: 6rem;
         margin: 0px;
         padding: 0px;
         gap: 2rem;
